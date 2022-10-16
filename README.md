@@ -1,5 +1,5 @@
 - 💻 Hey, I’m Nika.
-- 🦎 I love lizards (Except for Mark Zuckerberg)
+- 🦎 I like lizards (Except for Mark Zuckerberg)
 
 <!---
 DoctorLouWho/DoctorLouWho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
